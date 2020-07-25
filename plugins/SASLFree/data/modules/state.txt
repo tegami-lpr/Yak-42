@@ -1,0 +1,18 @@
+state = {
+    ['contextWindows'] = {
+        ['Yak42 Payload panel'] = {
+            ['visible'] = true;
+            ['mode'] = {
+                [1] = 0;
+            };
+            ['position'] = {
+                [1] = 1010;
+                [2] = 69;
+                [3] = 507;
+                [4] = 287;
+            };
+        };
+    };
+    ['legacyPopups'] = {
+    };
+};

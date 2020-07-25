@@ -1,0 +1,6 @@
+A
+750 version
+y_bottom   y_top
+-18	32		// comment: bug range
+  0  0		// comment: text label offset from default location, x and y
+ 

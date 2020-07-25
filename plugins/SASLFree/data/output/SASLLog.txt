@@ -1,0 +1,16 @@
+[YAK-42 AVIONICS INFO]: Initializing...
+[YAK-42 AVIONICS INFO]: Path to module: E:\Games/XPlane/Aircraft/LPR/Yak-42d/plugins/SASLFree/data/modules/main.lua
+[YAK-42 AVIONICS INFO]: Loading module...
+[YAK-42 AVIONICS INFO]: [LUA]: loading	module
+[YAK-42 AVIONICS INFO]: [LUA]: loading	menu
+[YAK-42 AVIONICS INFO]: [LUA]: loading	menu_icon
+[YAK-42 AVIONICS INFO]: [LUA]: loading	payload
+[YAK-42 AVIONICS INFO]: [LUA]: loading	payload_panel
+[YAK-42 AVIONICS INFO]: [LUA]: loading	payload_paxrows
+[YAK-42 AVIONICS INFO]: [LUA]: loading	pax_bar
+[YAK-42 AVIONICS INFO]: [LUA]: loading	interactive
+[YAK-42 AVIONICS INFO]: [LUA]: loading	payload_text
+[YAK-42 AVIONICS INFO]: [LUA]: loading	payload_textlabel
+[YAK-42 AVIONICS INFO]: Module loaded
+[YAK-42 AVIONICS INFO]: Disabling...
+[YAK-42 AVIONICS INFO]: SASL plugin stopped...
