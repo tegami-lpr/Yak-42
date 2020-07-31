@@ -114,7 +114,7 @@ P _gear/0/_lonE 0.0
 P _gear/0/_lonN 0.0
 P _gear/0/_lonR 120.0
 P _gear/0/_scon 41854.578125000
-P _gear/0/_stat_def 0.037575241
+P _gear/0/_stat_def 0.037575245
 P _gear/0/_steerdeg_hispeed 10.0
 P _gear/0/_steerdeg_lospeed 75.0
 P _gear/0/_strut_comp 0.0
@@ -148,7 +148,7 @@ P _gear/1/_lonE 0.0
 P _gear/1/_lonN 0.0
 P _gear/1/_lonR 40.0
 P _gear/1/_scon 41854.578125000
-P _gear/1/_stat_def 1.469200611
+P _gear/1/_stat_def 1.469200492
 P _gear/1/_steerdeg_hispeed 0.0
 P _gear/1/_steerdeg_lospeed 0.0
 P _gear/1/_strut_comp 0.0
@@ -182,7 +182,7 @@ P _gear/2/_lonE 0.0
 P _gear/2/_lonN 0.0
 P _gear/2/_lonR 40.0
 P _gear/2/_scon 41854.578125000
-P _gear/2/_stat_def 1.469200611
+P _gear/2/_stat_def 1.469200492
 P _gear/2/_steerdeg_hispeed 0.0
 P _gear/2/_steerdeg_lospeed 0.0
 P _gear/2/_strut_comp 0.0
@@ -399,8 +399,8 @@ P _lite/9/_v10_is_internal 6553646
 P _lite/9/_v10_steers_with_gear 0
 P _lite/9/_width 0.0
 P _lite/count 11
-P _lite_equip/_land_lite_off_on_retract_EQ 1
-P _lite_equip/_taxi_lite_off_on_retract_EQ 1
+P _lite_equip/_land_lite_off_on_retract_EQ 0
+P _lite_equip/_taxi_lite_off_on_retract_EQ 0
 P _obja/0/_obj_flags 24
 P _obja/0/_v10_att_file_stl bottom.obj
 P _obja/0/_v10_att_part -1
@@ -40137,7 +40137,7 @@ P _part/85/_part_specs_invis 1
 P _part/85/_part_tex 0
 P _part/85/_part_the 0.0
 P _part/85/_part_x 0.0
-P _part/85/_part_y -9.444052696
+P _part/85/_part_y -9.444051743
 P _part/85/_part_z 14.501312256
 P _part/85/_patt_con 0
 P _part/85/_patt_prt 0
@@ -50896,13 +50896,13 @@ P acf/_SFC_alt_hi_JET 32808.0
 P acf/_SFC_alt_hi_PRP 10000.0
 P acf/_SFC_alt_lo_JET 0.0
 P acf/_SFC_alt_lo_PRP 0.0
-P acf/_SFC_full_hi_JET 0.550000012
+P acf/_SFC_full_hi_JET 0.270999998
 P acf/_SFC_full_hi_PRP 0.699999988
-P acf/_SFC_full_lo_JET 0.550000012
+P acf/_SFC_full_lo_JET 0.270999998
 P acf/_SFC_full_lo_PRP 0.699999988
-P acf/_SFC_half_hi_JET 0.550000012
+P acf/_SFC_half_hi_JET 0.810999990
 P acf/_SFC_half_hi_PRP 0.699999988
-P acf/_SFC_half_lo_JET 0.550000012
+P acf/_SFC_half_lo_JET 0.810999990
 P acf/_SFC_half_lo_PRP 0.699999988
 P acf/_TOGA_discos_servos 0
 P acf/_TRQ_is_pcnt 0
@@ -51552,9 +51552,9 @@ P acf/_auto_pressurization 0
 P acf/_auto_psi_for_dir_change 180.0
 P acf/_auto_ptch_axis_defaults_free 0
 P acf/_auto_roll_axis_defaults_free 0
-P acf/_auto_rpm_EQ 1
+P acf/_auto_rpm_EQ 0
 P acf/_auto_rpm_with_tvec 0
-P acf/_auto_sync_EQ 1
+P acf/_auto_sync_EQ 0
 P acf/_auto_trim_EQ 0
 P acf/_autopilot_logic 0
 P acf/_average_mac_acf 18.418174744
@@ -52998,7 +52998,7 @@ P acf/_face_jet 97.669998169
 P acf/_face_rocket 0.0
 P acf/_fadec_EQ_mixture 0
 P acf/_fadec_EQ_rpm_limit 0
-P acf/_fadec_prevents_overboost 1
+P acf/_fadec_prevents_overboost 0
 P acf/_fan_rpm_for_n1_100 5650.0
 P acf/_fbrk_on_td_EQ 1
 P acf/_fdir_needed_to_engage_servo 0
@@ -53007,7 +53007,7 @@ P acf/_feather_on_mixt_pull_EQ 0
 P acf/_feather_on_prop_pull_EQ 0
 P acf/_feather_prop_with_oilp 0
 P acf/_feathered_pitch 70.0
-P acf/_ff_rat_idle_JET 0.100000001
+P acf/_ff_rat_idle_JET 0.070000000
 P acf/_ff_rat_idle_PRP 0.250000000
 P acf/_file_writer_version 114100
 P acf/_flap1_cd 0.050000001
@@ -53267,8 +53267,8 @@ P acf/_hyd_prop_pump_0123/6 0
 P acf/_hyd_prop_pump_0123/7 0
 P acf/_hyd_prop_pump_0123/count 8
 P acf/_hyd_rat_pump_0123 1
-P acf/_idle_rat/0 0.0
-P acf/_idle_rat/1 3.289999962
+P acf/_idle_rat/0 0.600000024
+P acf/_idle_rat/1 0.600000024
 P acf/_idle_rat/count 2
 P acf/_incidence_with_flaps 0
 P acf/_inlet_compression_efficiency 0.230000004
@@ -53353,7 +53353,7 @@ P acf/_min_vec_on_ground 0.0
 P acf/_mixt_x_ctr 1053.666625977
 P acf/_n1_power_curve1 9.989999771
 P acf/_n1_power_curve2 1.0
-P acf/_n2_power_curve 3.900000095
+P acf/_n2_power_curve 2.349999905
 P acf/_name Yak-42D
 P acf/_new_plot_XP3D_cock/0 0
 P acf/_new_plot_XP3D_cock/1 1
@@ -53362,7 +53362,7 @@ P acf/_new_plot_XP3D_cock/3 0
 P acf/_new_plot_XP3D_cock/4 1
 P acf/_new_plot_XP3D_cock/count 5
 P acf/_new_plot_outer_acf/0 0
-P acf/_new_plot_outer_acf/1 1
+P acf/_new_plot_outer_acf/1 0
 P acf/_new_plot_outer_acf/2 0
 P acf/_new_plot_outer_acf/3 1
 P acf/_new_plot_outer_acf/4 1
@@ -53503,9 +53503,9 @@ P acf/_red_hi_EPR 0.0
 P acf/_red_hi_FF 7425.0
 P acf/_red_hi_ITT 680.0
 P acf/_red_hi_MP 29.920000076
-P acf/_red_hi_N1 100.0
+P acf/_red_hi_N1 93.0
 P acf/_red_hi_N1_apu 0.0
-P acf/_red_hi_N2 100.0
+P acf/_red_hi_N2 97.0
 P acf/_red_hi_TRQ 0.0
 P acf/_red_hi_bat_amp 60.0
 P acf/_red_hi_bat_volt 24.0
@@ -53803,7 +53803,7 @@ P acf/_tank_part_en/7 0
 P acf/_tank_part_en/8 0
 P acf/_tank_part_en/count 9
 P acf/_tank_psi/0 14.0
-P acf/_tank_psi/1 21.0
+P acf/_tank_psi/1 14.0
 P acf/_tank_psi/2 14.0
 P acf/_tank_psi/3 10.0
 P acf/_tank_psi/4 10.0
@@ -53893,8 +53893,8 @@ P acf/_tank_xyz_full/j_count 3
 P acf/_the_eqlbm 2.058300257
 P acf/_thro_non_vect_props_at_sin_vect 0
 P acf/_thro_x_ctr 940.250000000
-P acf/_throt_max_fwd_emr 0.930000007
-P acf/_throt_max_fwd_nrm 0.930000007
+P acf/_throt_max_fwd_emr 1.0
+P acf/_throt_max_fwd_nrm 1.0
 P acf/_throt_max_rev 0.800000012
 P acf/_throt_time_jet 7.0
 P acf/_throt_time_prop 1.0
